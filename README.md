@@ -25,5 +25,7 @@ Hi, I'm Thanh Lam.
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=thanhlemm&show_icons=true&locale=en" alt="thanhlemm" /></p>
 <p align="left" top="4"><img align="left" src='https://streak-stats.demolab.com/?user=thanhlemm'></p>
+<p><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thanhlemm&layout=compact&exclude_lang=java+r&theme=vue-light" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhlemm&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
