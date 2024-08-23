@@ -23,9 +23,27 @@ Hi, I'm Thanh Lam.
 <br />
 <br />
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=thanhlemm&show_icons=true&locale=en" alt="thanhlemm" /></p>
-<p align="left" top="4"><img align="left" src='https://streak-stats.demolab.com/?user=thanhlemm'></p>
-<p><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thanhlemm&layout=compact&exclude_lang=java+r&theme=vue-light" /></p>
+## 🔥 My contribution streak
+
+<p align="center">
+  <a href="https://github.com/thanhlemm/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhlemm#version3"/>
+  </a>
+</p>
+
+
+<br/>
+
+### ⚙️ &nbsp; GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/thanhlemm">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thanhlemm&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thanhlemm&layout=compact&exclude_lang=java+r&theme=vue-light" />
+</a>
+</p>
+
+
 
 
 
