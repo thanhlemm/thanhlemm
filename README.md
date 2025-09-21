@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Welcome To Thanh Lam's Profile</h1>
+<h1>Welcome To Thanh Lam's Profile</h1>
 
 <br>
 
@@ -8,10 +8,6 @@ Hi, I'm Thanh Lam.
 
 
 - 📫 How to reach me: [tan036075@gmail.com](mailto:tan036075@gmail.com);
- 
-<br>
-<h3>Profile Views</h3>
-<p align="left"> <img src="https://profile-counter.glitch.me/thanhlemm/count.svg" alt="thanhlemm" /> </p>
 
 </br>
 
