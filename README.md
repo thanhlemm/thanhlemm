@@ -2,16 +2,18 @@
 
 <br>
 
-Hi, I’m Thanh Lam, a <b><i>Frontend developer</i></b> who is proactive and enjoys experimenting with new technologies. I work well in teams and love taking on challenges that help me grow. While my main focus is frontend development, I am also capable of contributing as a <b><i>Full-stack developer</i></b>.
+<p>Hi, I’m Thanh Lam — a <b><i>Frontend Developer</i></b> who loves exploring new technologies and building clean, interactive user experiences.</p>
+<p>I work effectively in teams, enjoy solving challenging problems, and can contribute as a <b><i>Full-stack Developer</i></b> when needed.</p>
+🌱 <i>Currently, I’m building my personal Portfolio Website using Three.js and Framer Motion to level-up my 3D and animation skills.</i>
 
 <br>
 
-# 📫 How to reach me
-- Email: [tan036075@gmail.com](mailto:tan036075@gmail.com);
+# 📫 Contact Me
+- Email: [tan036075@gmail.com](mailto:tan036075@gmail.com)
 
 </br>
 
-# 💻 Skills:
+# 💻 Skills
 - <b>Languages</b>: Python, JavaScript, TypeScript
 - <b>Frameworks & Libraries</b>:
   - Frontend: ReactJS, NextJS, Bootstrap, TailwindCSS, Shadcn
@@ -22,7 +24,7 @@ Hi, I’m Thanh Lam, a <b><i>Frontend developer</i></b> who is proactive and enj
 
 <br />
 
-## 🔥 My contribution streak
+# 🔥 My contribution streak
 
 <p align="center">
   <a href="https://github.com/thanhlemm/github-readme-streak-stats">
@@ -33,7 +35,7 @@ Hi, I’m Thanh Lam, a <b><i>Frontend developer</i></b> who is proactive and enj
 
 <br/>
 
-### ⚙️ &nbsp; GitHub Analytics
+# ⚙️ &nbsp; GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/thanhlemm">
