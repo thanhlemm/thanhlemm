@@ -4,7 +4,7 @@
 
 <p>Hi, I’m Thanh Lam — a <b><i>Frontend Developer</i></b> who loves exploring new technologies and building clean, interactive user experiences.</p>
 <p>I work effectively in teams, enjoy solving challenging problems, and can contribute as a <b><i>Full-stack Developer</i></b> when needed.</p>
-🌱 <i>Currently, I’m building my personal Portfolio Website using Three.js and Framer Motion to level-up my 3D and animation skills.</i>
+🌱 <i>Currently, I’m building my personal Portfolio Website.</i>
 
 <br>
 
